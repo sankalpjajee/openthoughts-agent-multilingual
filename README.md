@@ -14,6 +14,10 @@ Structure mirrored from `sankalpjajee/OpenThoughts-Agent@3bd1917e62c9d03d73063b4
 
 ## Open decisions
 
+The codebase survey in [docs/OT_AGENT_MULTILINGUAL_SURVEY.md](docs/OT_AGENT_MULTILINGUAL_SURVEY.md) maps what
+OT-Agent consists of, where natural language lives, the candidate workstreams, a recommended pilot, and a full
+decision table.
+
 - [ ] **What to convert** — task datasets (`data/`), agent prompts / chat templates, eval benchmarks
       (`eval/`), generated traces, or a combination.
 - [ ] **Target languages** — e.g. the Indic languages covered by IndicMMLU-Pro, optionally with
